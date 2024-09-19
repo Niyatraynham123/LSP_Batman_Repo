@@ -165,5 +165,5 @@ public class WordCounting {
         return !word.matches("\\d+") && word.length() > 3;
     }
 }
-
+//Niya Traynham
 
